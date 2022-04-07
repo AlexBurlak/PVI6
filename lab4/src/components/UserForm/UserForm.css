@@ -1,0 +1,23 @@
+.user-dialog .modal-content {
+    border: none;
+}
+
+.user-dialog .modal-header {
+    background-color: #769656;
+    color:#fff;
+    text-transform: uppercase;
+    border-radius: 0;;
+}
+
+.user-dialog .modal-body {
+    background-color: #eeeed2;
+}
+
+.user-dialog .modal-body button {
+    background-color:#769656;
+    border:none;
+}
+
+.user-dialog .modal-body button:hover {
+    background-color: #5a7242;
+}

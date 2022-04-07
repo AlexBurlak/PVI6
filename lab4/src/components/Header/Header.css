@@ -1,0 +1,9 @@
+.header-links {
+    background-color: #769656;
+}
+
+.header-links .nav-item a {
+    color: #eeeed2 !important;
+    text-decoration: underline;
+    font-size: 20px;
+}
